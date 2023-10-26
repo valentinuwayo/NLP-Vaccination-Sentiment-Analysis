@@ -67,6 +67,18 @@ Copy code
 
 Contributions are welcome! Feel free to open issues and pull requests.
 
+## Author
+
+`Valentin UWAYO`
+
+`Data Analyst/Data Scientist`
+
+Let's connect on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwayo-valentin-a12563168/) 
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
