@@ -4,7 +4,7 @@ This repository contains the necessary code and resources for participating in t
 ## Summary
 |     Jupyter Notebook                       | Published Article|    Link To Working App on Hugging Face
 | -------------                  | -------------    |    -----------------
-|[Notebook with code and full analysis](dev/NLP_Vaccination_Sentiment_Analysis_RoBERTa.ipynb)|  [Published Article](https://www.linkedin.com/pulse/covid-19-tweets-sentiment-analysis-from-model-hugging-uwayo-valentin-cwnif)               |[App Link](https://huggingface.co/spaces/uwayovalentin/Covid-19_Tweets_Sentiment_Analysis_App)
+|[Notebook with code and full analysis](dev/NLP_Vaccination_Sentiment_Analysis_RoBERTa.ipynb)|  [Published Article on Linkedln](https://www.linkedin.com/pulse/covid-19-tweets-sentiment-analysis-from-model-hugging-uwayo-valentin-cwnif)               |[App Link](https://huggingface.co/spaces/uwayovalentin/Covid-19_Tweets_Sentiment_Analysis_App)
 
 ## App Interface
 Add the text you want to analyze and click on the **SUBMIT** button.
